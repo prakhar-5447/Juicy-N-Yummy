@@ -1,3 +1,8 @@
+# Checkout new version:
+deployment link: https://feasto-app-latest.onrender.com/
+
+repo link: https://github.com/prakhar-5447/feasto-frontend
+
 # 🍹 Juicy-N-Yummy
 
 > A full-stack restaurant aggregator and food delivery platform that enhances the dining experience by providing menus, reviews, and location-based restaurant discovery.
